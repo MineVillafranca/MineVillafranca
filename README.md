@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MineVillafranca
+- 👀 I’m interested in everything about cybersecurity applied to companies and the private sector.
+- 🌱 I’m currently learning programming in different languages and on the subject of cybersecurity learning to use different tools to launch attacks for ethical purposes.
+- 💞️ I’m looking to collaborate on all possible projects to increase my knowledge
+- 📫 How to reach me villafranca2442@hotmail.com
